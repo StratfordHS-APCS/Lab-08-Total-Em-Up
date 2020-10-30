@@ -2,6 +2,12 @@ class Main {
   
   // returns the sum of all the values in an integer array.
   public static int total(int[] nums){
+    int sum = 0;
+    for(int number : nums)
+    {
+      sum== number;
+    }
+    return sum;
 
   }
   
